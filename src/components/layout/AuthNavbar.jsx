@@ -208,10 +208,10 @@ export default function AuthNavbar() {
             <Link href="/">
               <div className="flex items-center space-x-2 cursor-pointer">
                <Image
-                  src="/images/auth/logoKhmerEstate.png"
+                  src="/images/auth/KhmerEstateLogo.png"
                   alt="ResellKH Logo"
-                  width={120} 
-                  height={60} 
+                  width={900}  
+                  height={900} 
                   className="h-12 w-auto"
                 />
               </div>

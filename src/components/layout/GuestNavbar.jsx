@@ -21,12 +21,12 @@ export default function GuestNavbar() {
         <div className="flex justify-between items-center">
           {/* Logo */}
           <Image
-              src="/KhmerEstate.png"
+              src="/KhmerEstateLogo.png"
               alt="ResellKH Logo"
-              width={150}
-              height={150}
+              width={9000}
+              height={9000}
               onClick={() => router.push('/')}
-              className="cursor-pointer h-96 object-contain"
+              className="cursor-pointer object-contain"
             />
 
           {/* Category Links */}
